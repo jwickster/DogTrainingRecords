@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Dog_Training_Records.Data;
 
-public class DogIDInfo
+public class DogInfo
 {
     [Required, MaxLength(100)]
     public string DogName { get; set; } = default!;
