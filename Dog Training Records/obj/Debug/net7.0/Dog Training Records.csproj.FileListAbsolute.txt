@@ -1,0 +1,26 @@
+/Users/joshwickster/RiderProjects/Dog Training Records/Dog Training Records/bin/Debug/net7.0/appsettings.Development.json
+/Users/joshwickster/RiderProjects/Dog Training Records/Dog Training Records/bin/Debug/net7.0/appsettings.json
+/Users/joshwickster/RiderProjects/Dog Training Records/Dog Training Records/bin/Debug/net7.0/Dog Training Records
+/Users/joshwickster/RiderProjects/Dog Training Records/Dog Training Records/bin/Debug/net7.0/Dog Training Records.deps.json
+/Users/joshwickster/RiderProjects/Dog Training Records/Dog Training Records/bin/Debug/net7.0/Dog Training Records.runtimeconfig.json
+/Users/joshwickster/RiderProjects/Dog Training Records/Dog Training Records/bin/Debug/net7.0/Dog Training Records.dll
+/Users/joshwickster/RiderProjects/Dog Training Records/Dog Training Records/bin/Debug/net7.0/Dog Training Records.pdb
+/Users/joshwickster/RiderProjects/Dog Training Records/Dog Training Records/obj/Debug/net7.0/Dog Training Records.csproj.AssemblyReference.cache
+/Users/joshwickster/RiderProjects/Dog Training Records/Dog Training Records/obj/Debug/net7.0/Dog Training Records.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshwickster/RiderProjects/Dog Training Records/Dog Training Records/obj/Debug/net7.0/Dog Training Records.AssemblyInfoInputs.cache
+/Users/joshwickster/RiderProjects/Dog Training Records/Dog Training Records/obj/Debug/net7.0/Dog Training Records.AssemblyInfo.cs
+/Users/joshwickster/RiderProjects/Dog Training Records/Dog Training Records/obj/Debug/net7.0/Dog Training Records.csproj.CoreCompileInputs.cache
+/Users/joshwickster/RiderProjects/Dog Training Records/Dog Training Records/obj/Debug/net7.0/Dog Training Records.MvcApplicationPartsAssemblyInfo.cache
+/Users/joshwickster/RiderProjects/Dog Training Records/Dog Training Records/obj/Debug/net7.0/staticwebassets/msbuild.Dog Training Records.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/joshwickster/RiderProjects/Dog Training Records/Dog Training Records/obj/Debug/net7.0/staticwebassets/msbuild.build.Dog Training Records.props
+/Users/joshwickster/RiderProjects/Dog Training Records/Dog Training Records/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Dog Training Records.props
+/Users/joshwickster/RiderProjects/Dog Training Records/Dog Training Records/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Dog Training Records.props
+/Users/joshwickster/RiderProjects/Dog Training Records/Dog Training Records/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/joshwickster/RiderProjects/Dog Training Records/Dog Training Records/obj/Debug/net7.0/staticwebassets.build.json
+/Users/joshwickster/RiderProjects/Dog Training Records/Dog Training Records/obj/Debug/net7.0/staticwebassets.development.json
+/Users/joshwickster/RiderProjects/Dog Training Records/Dog Training Records/obj/Debug/net7.0/scopedcss/bundle/Dog Training Records.styles.css
+/Users/joshwickster/RiderProjects/Dog Training Records/Dog Training Records/obj/Debug/net7.0/Dog Training Records.dll
+/Users/joshwickster/RiderProjects/Dog Training Records/Dog Training Records/obj/Debug/net7.0/refint/Dog Training Records.dll
+/Users/joshwickster/RiderProjects/Dog Training Records/Dog Training Records/obj/Debug/net7.0/Dog Training Records.pdb
+/Users/joshwickster/RiderProjects/Dog Training Records/Dog Training Records/obj/Debug/net7.0/Dog Training Records.genruntimeconfig.cache
+/Users/joshwickster/RiderProjects/Dog Training Records/Dog Training Records/obj/Debug/net7.0/ref/Dog Training Records.dll
