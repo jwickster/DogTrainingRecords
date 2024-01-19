@@ -1,5 +1,5 @@
 using System.Text.Json;
-using Dog_Training_Records.Data;
+using Dog_Training_Records.Models;
 
 namespace Dog_Training_Records.Extensions;
 

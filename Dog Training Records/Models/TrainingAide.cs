@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace Dog_Training_Records.Data;
+namespace Dog_Training_Records.Models;
 
 /// <summary>
 /// This class represents the training aide data in the database.
