@@ -16,8 +16,21 @@ public class DogInfo
     [Required, DisplayFormat(DataFormatString = "{0:MM/dd/yyyy}")]
     public DateTime DogWhelpDateTime { get; set; }
     
-    [Required, MaxLength(100)]
+    [Required, MaxLength(1)]
     public string DogCATStatus { get; set; } = default!;
+    
+    //bool is dog deployable
+    [Required]
+    public bool DogDeployable { get; set; }
+    
+    //dog last physical date
+    [Required, DisplayFormat(DataFormatString = "{0:MM/dd/yyyy}")]
+    public DateTime DogLastPhysical { get; set; }
+    
+    //dog last dental date
+    [Required, DisplayFormat(DataFormatString = "{0:MM/dd/yyyy}")]
+    public DateTime DogLastDental { get; set; }
+    
     
     //dog tattoo
     [Required, MaxLength(5)]
