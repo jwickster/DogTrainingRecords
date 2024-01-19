@@ -2,6 +2,7 @@ namespace Dog_Training_Records.Data;
 
 public class Patrol
 {
+    
     string ScoutLocation { get; set; }
     string WindDirection { get; set; }
     ushort WindSpeed { get; set; }
@@ -19,6 +20,8 @@ public class Patrol
     string BuildingOwnerEmail { get; set; }
     string BuildingOwnerPhone { get; set; }
     string BuildingManager { get; set; }
+    
+    
 
 
 

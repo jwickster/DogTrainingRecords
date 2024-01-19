@@ -2,7 +2,8 @@ namespace Dog_Training_Records.Data;
 
 public class DogDetection
 {
-    string DetectionType { get; set; }
+    
+    public string DetectionType { get; set; }
     string DetectionAid { get; set; }
     string DetectionLocation { get; set; }
     string DetectionNotes { get; set; }

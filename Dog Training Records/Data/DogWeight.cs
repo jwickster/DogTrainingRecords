@@ -4,26 +4,25 @@ namespace Dog_Training_Records.Data;
 
 public class DogWeight
 {
+    //dog ideal weight
     [Required, MaxLength(5)]
-    public string? Tattoo { get; set; }
+    public decimal DogIdealWeight { get; set; } = default!;
     
-    [Required, MaxLength(50)]
-    public string DogName { get; set; } = default!;
+    //dog actual weight
+    [Required, MaxLength(5)]
+    public decimal DogActualWeight { get; set; } = default!;
     
-    [Required, MaxLength(100)]
-    public string DogBreed { get; set; } = default!;
+    //dog last weight
+    [Required, MaxLength(5)]
+    public decimal DogLastWeight { get; set; } = default!;
     
-    [Required, DisplayFormat(DataFormatString = "{0:MM/dd/yyyy}")]
-    public DateTime DogWhelpDateTime { get; set; }
+    //underweight?
+    [Required]
+    public bool DogUnderweight { get; set; }
     
-    [Required, MaxLength(100)]
-    public string DogFoodBrand { get; set; } = default!;
-    
-    [Required, MaxLength(100)]
-    public string DogFoodType { get; set; } = default!;
-    
-    [Required, MaxLength(100)]
-    public string DogFoodAmount { get; set; } = default!;
+    //overweight?
+    [Required]
+    public bool DogOverweight { get; set; }
     
     
     

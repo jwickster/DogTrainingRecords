@@ -5,19 +5,19 @@ namespace Dog_Training_Records.Data;
 public class DogTrainingConditions
 {
     [Required, DisplayFormat(DataFormatString = "{0:MM/dd/yyyy}")]
-    public DateTime DogTrainingDate { get; set; }
+    public DateTime TrainingDate { get; set; }
     
     [Required, DisplayFormat(DataFormatString = "{0:HH:mm}")]
-    public DateTime DogTrainingStartTime { get; set; }
+    public DateTime TrainingStartTime { get; set; }
     
     [Required, DisplayFormat(DataFormatString = "{0:HH:mm}")]
-    public DateTime DogTrainingEndTime { get; set; }
+    public DateTime TrainingEndTime { get; set; }
     
     [Required, MaxLength(10)]
-    public int StartAmbientTemperature { get; set; }
+    public int StartTemperature { get; set; }
     
     [Required, MaxLength(10)]
-    public int EndAmbientTemperature { get; set; }
+    public int EndTemperature { get; set; }
     
     [Required, MaxLength(10)]
     public int StartHumidity { get; set; }
