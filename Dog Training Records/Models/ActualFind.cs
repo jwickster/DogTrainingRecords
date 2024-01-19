@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace Dog_Training_Records.Models;
+namespace Dog_Training_Records.Data;
 
 public class ActualFind
 {
