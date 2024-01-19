@@ -31,6 +31,9 @@ public class DogInfo
     [Required, DisplayFormat(DataFormatString = "{0:MM/dd/yyyy}")]
     public DateTime DogLastDental { get; set; }
     
+    //date returned from last deployment
+    [Required, DisplayFormat(DataFormatString = "{0:MM/dd/yyyy}")]
+    public DateTime DateReturnedFromDeployment { get; set; }
     
     //dog tattoo
     [Required, MaxLength(5)]
