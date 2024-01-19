@@ -28,20 +28,5 @@ public class Explosives
     [Required]
     public bool Nitroglycerin { get; set; }
     
-    //training aid plant time
-    [Required, MaxLength(5)]
-    public decimal TrainingAidPlantTime { get; set; } = default!;
-    
-    //training aid plant height
-    [Required, MaxLength(5)]
-    public decimal TrainingAidPlantHeight { get; set; } = default!;
-    
-    //training aid plant depth
-    [Required, MaxLength(5)]
-    public decimal TrainingAidPlantDepth { get; set; } = default!;
-    
-    //trainng aide plant set time
-    [Required, MaxLength(5)]
-    public decimal TrainingAidPlantSetTime { get; set; } = default!;
-    
+   
 }
