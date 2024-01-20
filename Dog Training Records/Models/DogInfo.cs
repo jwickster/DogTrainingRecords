@@ -14,7 +14,7 @@ public class DogInfo
     public DateTime DogArrivedOnStation { get; set; }
     
     [Required, DisplayFormat(DataFormatString = "{0:MM/dd/yyyy}")]
-    public DateTime DogWhelpDateTime { get; set; }
+    public DateTime WhelpDateTime { get; set; }
     
     [Required, MaxLength(1)]
     public string DogCATStatus { get; set; } = default!;

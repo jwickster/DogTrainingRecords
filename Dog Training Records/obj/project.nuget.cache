@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FRSLE9lAxei09gJlk0STcONYLbt/ISt1CB3EqsFgUvA8u5kC3ncrwdxvP2389eDa7nAjDycCUxfQ3MzbxdFgmg==",
+  "dgSpecHash": "X/PdlK48Q+pYkHcMnMRuECMjdVvq5UDBreAf6tCMELzwkVZOwXTV3cMW6SlztKJRfACleC13hCbSjm1v/DW+FA==",
   "success": true,
   "projectFilePath": "/Users/joshwickster/Documents/GitHub/DogTrainingRecords/Dog Training Records/Dog Training Records.csproj",
   "expectedPackageFiles": [
@@ -22,7 +22,10 @@
     "/Users/joshwickster/.nuget/packages/system.security.cryptography.protecteddata/4.7.0/system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
     "/Users/joshwickster/.nuget/packages/system.security.permissions/4.7.0/system.security.permissions.4.7.0.nupkg.sha512",
     "/Users/joshwickster/.nuget/packages/system.security.principal.windows/4.7.0/system.security.principal.windows.4.7.0.nupkg.sha512",
-    "/Users/joshwickster/.nuget/packages/system.windows.extensions/4.7.0/system.windows.extensions.4.7.0.nupkg.sha512"
+    "/Users/joshwickster/.nuget/packages/system.windows.extensions/4.7.0/system.windows.extensions.4.7.0.nupkg.sha512",
+    "/Users/joshwickster/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/joshwickster/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/joshwickster/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.14/microsoft.netcore.app.host.osx-arm64.7.0.14.nupkg.sha512"
   ],
   "logs": []
 }
